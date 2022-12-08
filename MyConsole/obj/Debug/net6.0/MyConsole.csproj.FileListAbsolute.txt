@@ -1,0 +1,15 @@
+/workspaces/test1/MyConsole/bin/Debug/net6.0/MyConsole
+/workspaces/test1/MyConsole/bin/Debug/net6.0/MyConsole.deps.json
+/workspaces/test1/MyConsole/bin/Debug/net6.0/MyConsole.runtimeconfig.json
+/workspaces/test1/MyConsole/bin/Debug/net6.0/MyConsole.dll
+/workspaces/test1/MyConsole/bin/Debug/net6.0/MyConsole.pdb
+/workspaces/test1/MyConsole/obj/Debug/net6.0/MyConsole.csproj.AssemblyReference.cache
+/workspaces/test1/MyConsole/obj/Debug/net6.0/MyConsole.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/test1/MyConsole/obj/Debug/net6.0/MyConsole.AssemblyInfoInputs.cache
+/workspaces/test1/MyConsole/obj/Debug/net6.0/MyConsole.AssemblyInfo.cs
+/workspaces/test1/MyConsole/obj/Debug/net6.0/MyConsole.csproj.CoreCompileInputs.cache
+/workspaces/test1/MyConsole/obj/Debug/net6.0/MyConsole.dll
+/workspaces/test1/MyConsole/obj/Debug/net6.0/refint/MyConsole.dll
+/workspaces/test1/MyConsole/obj/Debug/net6.0/MyConsole.pdb
+/workspaces/test1/MyConsole/obj/Debug/net6.0/MyConsole.genruntimeconfig.cache
+/workspaces/test1/MyConsole/obj/Debug/net6.0/ref/MyConsole.dll
